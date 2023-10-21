@@ -10,3 +10,9 @@
 ## İNSTALLATİON
 Öncelikle projeyi clonlayın(<a href="https://github.com/serafettingunes/kodluyoruzilkrepo.git">https://github.com/serafettingunes/kodluyoruzilkrepo.git</a>)
 
+<code> git clone https://github.com/serafettingunes/kodluyoruzilkrepo.git</code> 
+
+### Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+#### Linux için:
